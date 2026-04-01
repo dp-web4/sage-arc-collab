@@ -30,7 +30,7 @@
 
 ### Immediate (this week)
 - [ ] End-to-end integration test: Andy push frame → SAGE loop → action dispatch
-- [ ] `GridCartridgeIRP` — SAGE's memory search wrapper over Andy's paired lattice
+- [x] `GridCartridgeIRP` — DONE 2026-04-01 (`sage/irp/plugins/grid_cartridge_irp.py`)
 - [ ] Relay: confirm Andy has access to this repo and the interface spec
 - [ ] Serialization format decision: JSON (Phase 1 agreed) → msgpack when Phase 2
 
