@@ -1,6 +1,8 @@
 # Integration Status
 
-*Updated: 2026-04-01*
+*Snapshot: 2026-04-01 (not independently revalidated on 2026-10-28)*
+
+> **Archive boundary:** The checkboxes and timing phrases (“this week”, “current scorer”) below describe April 2026 observations. They are not current run status, current performance data, or proof of an end-to-end integration. See [SAGE](https://github.com/dp-web4/SAGE) for current public source/status and [ARC-SAGE](https://github.com/dp-web4/ARC-SAGE) for the frozen spring milestone.
 
 ---
 
