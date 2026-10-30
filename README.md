@@ -1,6 +1,8 @@
 # sage-arc-collab
 
-Shared integration context for SAGE ↔ Membot collaboration on ARC-AGI-3.
+**Historical integration snapshot (April 2026), not the current SAGE/ARC execution path.**
+
+Shared integration context for SAGE ↔ Membot collaboration on ARC-AGI-3. This repo preserves the original GridVisionIRP ↔ GridCartridge interface discussion, not a newly validated end-to-end pipeline. For current public SAGE mechanisms and explicit assurance limits, see [SAGE](https://github.com/dp-web4/SAGE); for the frozen spring ARC milestone and its historical scorecard, see [ARC-SAGE](https://github.com/dp-web4/ARC-SAGE). Active competition work is separate and must not be inferred from this archived interface record.
 
 **Teams**: dp-web4 (Dennis + Claude) · project-you-apps (Andy + Claude)
 
@@ -12,7 +14,7 @@ Shared integration context for SAGE ↔ Membot collaboration on ARC-AGI-3.
 |------|---------|
 | `gridvision-irp-interface-spec.md` | Contract between Andy's perception layer and SAGE's consciousness loop |
 | `grid_vision_irp.py` | SAGE's GridVisionIRP plugin (reference copy for Andy) |
-| `INTEGRATION_STATUS.md` | Current integration status, open questions, next steps |
+| `INTEGRATION_STATUS.md` | **April 1, 2026 snapshot**: completed, unverified and open integration work as reported then |
 
 ---
 
@@ -48,4 +50,4 @@ See `gridvision-irp-interface-spec.md` for the full contract.
 
 ## Status
 
-See `INTEGRATION_STATUS.md` for current state and open questions.
+See [`INTEGRATION_STATUS.md`](INTEGRATION_STATUS.md) for the **April 1, 2026** state and open questions, not today's completion status.
